@@ -1,0 +1,7 @@
+{
+  "name": "gre-word-drill",
+  "private": true,
+  "dependencies": {
+    "redis": "4.7.0"
+  }
+}
